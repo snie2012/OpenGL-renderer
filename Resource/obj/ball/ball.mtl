@@ -1,0 +1,30 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl Material__115
+Kd 0.6 0.6 0.6
+Ka 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+Ke 0 0 0
+Ns 0.415939
+illum 2
+map_Kd ./images/mbr_common_ballspec.png
+
+newmtl Material__151
+Kd 0.6 0.6 0.6
+Ka 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+Ke 0 0 0
+Ns 0.415939
+illum 2
+map_Kd ./images/ball_color_white01.png
+
+newmtl Material__163
+Kd 0.6 0.6 0.6
+Ka 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+Ke 0 0 0
+Ns 0.415939
+illum 2
+map_Kd ./images/ball_color_clear01.png
+
